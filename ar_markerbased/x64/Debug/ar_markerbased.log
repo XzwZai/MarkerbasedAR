@@ -1,0 +1,58 @@
+﻿  main.cpp
+d:\workspace\vs2017\ar_markerbased\ar_markerbased\marker.h(13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\workspace\vs2017\ar_markerbased\ar_markerbased\marker.h(14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\workspace\vs2017\ar_markerbased\ar_markerbased\marker.h(15): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\workspace\vs2017\ar_markerbased\ar_markerbased\marker.h(16): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\workspace\vs2017\ar_markerbased\ar_markerbased\marker.h(60): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\workspace\vs2017\ar_markerbased\ar_markerbased\markerdetector.h(26): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\workspace\vs2017\ar_markerbased\ar_markerbased\markerdetector.h(27): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\workspace\vs2017\ar_markerbased\ar_markerbased\markerdetector.h(28): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\workspace\vs2017\ar_markerbased\ar_markerbased\markerdetector.h(84): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\workspace\vs2017\ar_markerbased\ar_markerbased\markerdetector.h(96): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\utility(174): warning C4267: “初始化”: 从“size_t”转换到“_Ty1”，可能丢失数据
+          with
+          [
+              _Ty1=int
+          ]
+  d:\workspace\vs2017\ar_markerbased\ar_markerbased\markerdetector.h(138): note: 参见对正在编译的函数 模板 实例化“std::pair<int,int>::pair<size_t&,size_t&,0>(_Other1,_Other2) noexcept”的引用
+          with
+          [
+              _Other1=size_t &,
+              _Other2=size_t &
+          ]
+  d:\workspace\vs2017\ar_markerbased\ar_markerbased\markerdetector.h(138): note: 参见对正在编译的函数 模板 实例化“std::pair<int,int>::pair<size_t&,size_t&,0>(_Other1,_Other2) noexcept”的引用
+          with
+          [
+              _Other1=size_t &,
+              _Other2=size_t &
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\utility(174): warning C4267: “初始化”: 从“size_t”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty2=int
+          ]
+  ar_markerbased.vcxproj -> D:\WorkSpace\VS2017\ar_markerbased\x64\Debug\ar_markerbased.exe
